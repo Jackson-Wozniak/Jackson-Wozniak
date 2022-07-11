@@ -7,7 +7,7 @@ I am a Computer Science student who has found a passion in writing code and lear
 
 - :green_book: I have focused my study on Java development
 
-- :books: I’m currently learning Java Spring Boot and Backend development, and plan to learn JavaScript and front end development
+- :books: I’m currently learning Java Spring Boot, and plan to learn JavaScript to create full stack applications
 
 - :computer: I am currently working towards a Software Engineering Internship
 

@@ -27,7 +27,7 @@ I am a Computer Science student who has found a passion in writing code and lear
 
 ---
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jackson-Wozniak&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jackson-Wozniak&theme=dark&background=293247)](https://git.io/streak-stats)
 
 <!--
 ---

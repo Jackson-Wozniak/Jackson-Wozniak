@@ -7,7 +7,7 @@ I am a Computer Science student who has found a passion in writing code and lear
 
 - :green_book: I have focused my study on Java development
 
-- :books: I’m currently learning Java Spring Boot, and plan to learn JavaScript to create full stack applications
+- :books: I’m currently learning Java Spring Boot, and hope to pursue a career in backend web development
 
 - :computer: I am currently working towards a Software Engineering Internship
 
@@ -28,8 +28,8 @@ I am a Computer Science student who has found a passion in writing code and lear
 
 ---
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jackson-Wozniak&theme=dark&background=293247)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jackson-Wozniak&theme=dark)](https://git.io/streak-stats)
 
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jackson-Wozniak&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
---->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jackson-Wozniak&layout=compact&theme=dark&background=293247)](https://github.com/anuraghazra/github-readme-stats)
+

@@ -5,9 +5,9 @@ I am a Computer Science student who has found a passion in writing code and lear
 
 - 🔭 I’m currently studying Computer Science at my local community college
 
-- :books: I’m currently learning Java Spring Boot, and hope to pursue a career in backend web development
+- :books: I'm learning Java Spring Boot, and hope to pursue a career in backend web development
 
-- :computer: I am currently working towards a Software Engineering Internship
+- :computer: I'm also learning TypeScript and the fundamentals of Frontend Development
 
 ---
 

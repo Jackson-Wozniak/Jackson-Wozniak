@@ -1,13 +1,13 @@
-### Hello there 👋
+### Hello 👋
 ---
 
 I am a Computer Science student who has found a passion in writing code and learning new things. 
 
-- 🔭 I’m currently studying Computer Science at my local community college
+- 🔭 I’m currently studying Computer Science at the University of New Hampshire
 
-- :books: I'm learning Java Spring Boot, and hope to pursue a career in backend web development
+- :books: I'm learning Java Spring Boot and backend web development
 
-- :computer: I'm also learning TypeScript and the fundamentals of Frontend Development
+- :computer: I'm also learning React and frontend web development
 
 ---
 

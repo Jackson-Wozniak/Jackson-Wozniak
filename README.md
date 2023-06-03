@@ -7,7 +7,7 @@
 
 - :books: I have been learning backend web development with Java Spring Boot
 
-- :computer: I have also been learning
+- :computer: I have also been learning React.js and frontend web development
 
 ---
 

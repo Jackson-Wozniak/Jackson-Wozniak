@@ -15,7 +15,7 @@
 
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=Jackson-Wozniak&show_icons=true&count_private=true&theme=codeSTACKr&hide_rank=true" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackson-Wozniak&layout=compact&langs_count=6&theme=codeSTACKr" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackson-Wozniak&layout=compact&langs_count=5&theme=codeSTACKr&hide=html,css" />
 </p>
 
 <br>

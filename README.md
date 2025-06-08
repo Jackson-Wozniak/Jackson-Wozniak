@@ -1,7 +1,7 @@
 ### Hello 👋
 ---
 
-#### I am a Software Engineer Intern & Computer Science major who has found a passion in building applications and learning new things
+#### I am a Software Engineer Intern & CS major who has found a passion in building applications and learning new things
 
 - :office: I'm currently working as a Software Engineer Intern at Concord Group Insurance
 

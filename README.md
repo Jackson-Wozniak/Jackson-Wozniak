@@ -1,11 +1,11 @@
 ### Hello 👋
 ---
 
-#### I am a Software Engineer Intern & CS major who has found a passion in building applications and learning new things
+#### I am a Software Engineer who has found a passion in building applications and learning new things
 
-- :office: I'm currently working as a Software Engineer Intern at Concord Group Insurance
+- :office: I'm currently working as a Software Engineer  at Concord Group Insurance
 
-- 🔭 I’m currently pursuing a Bachelor's in Computer Science at the University of New Hampshire
+- 🔭 I recently graduated with a Bachelor's in Computer Science at the University of New Hampshire
 
 - :books: I have focused my learning on Backend Web Development, with both Java's Spring Boot and C#'s .NET frameworks
 

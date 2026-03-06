@@ -1,29 +1,26 @@
-### Hello 👋
+
+<h3 align="center">Hi 👋, I'm Jackson Wozniak</h3>
+<h4 align="center">Software Engineer | B.S in Computer Science - UNH</h4>
+
 ---
 
-#### I am a Software Engineer who has found a passion in building applications and learning new things
+### 👨‍💻 About Me
 
-- :office: I'm currently working as a Software Engineer  at Concord Group Insurance
+- :office: I'm currently an Associate Software Engineer II at Concord Group Insurance
 
 - 🔭 I recently graduated with a Bachelor's in Computer Science at the University of New Hampshire
 
-- :books: I have focused my learning on Backend Web Development, with both Java's Spring Boot and C#'s .NET frameworks
+- :books: I have focused my learning on full stack web development
 
-- :airplane: I enjoy aviation, and have built projects that incoporate aviation with programming, including my Elevation Airlines project pinned below!
-
----
+- 💻 I am enthusiastic about problem-solving, building scalable applications, and exploring different paradigms of software engineering
 
 <br>
 
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Jackson-Wozniak&show_icons=true&count_private=true&theme=codeSTACKr&hide_rank=true" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackson-Wozniak&layout=compact&langs_count=6&theme=codeSTACKr&hide=html,css" />
-</p>
+---
 
 <br>
 
 ### :hammer_and_wrench:Tools and Languages
----
 
 <p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="70" height="70"/>&nbsp;

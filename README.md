@@ -8,11 +8,11 @@
 
 - :office: I'm currently an Associate Software Engineer II at Concord Group Insurance
 
-- 🔭 I recently graduated with a Bachelor's in Computer Science at the University of New Hampshire
+- 🔭 I obtained a Bachelor's in Computer Science at the University of New Hampshire in 2026
 
 - :books: I have focused my learning on full stack web development
 
-- 💻 I am enthusiastic about problem-solving, building scalable applications, and exploring different paradigms of software engineering
+- 💻 I am especially enthusiastic about server-side simulations that relate to my hobbies, such as my stock market simulation!
 
 <br>
 

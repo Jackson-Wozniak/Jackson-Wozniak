@@ -1,6 +1,6 @@
 
 <h3 align="center">Hi 👋, I'm Jackson Wozniak</h3>
-<h4 align="center">Software Engineer | B.S in Computer Science - UNH Dec. 2025</h4>
+<h4 align="center">Software Engineer | B.S in Computer Science - UNH</h4>
 
 ---
 
